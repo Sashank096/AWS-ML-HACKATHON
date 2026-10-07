@@ -402,8 +402,3 @@ Built as a machine-learning engineering project focused on:
 
 ---
 
-## ⭐ If you find the project interesting
-
-A star, issue, discussion, or constructive pull request is always welcome.
-
-> **Good entity resolution is not just about finding similarities — it's about knowing when a similarity is strong enough to trust.**
